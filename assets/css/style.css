@@ -1,1 +1,19 @@
 /* Holiii otra vez */
+*{
+	margin:0;
+	padding:0;
+}
+.ppal{
+	padding-left: 8px;
+}
+nav{
+	padding:0;
+}
+.navbar{
+	background-color: transparent;
+	border:none;
+
+}
+.collapse{
+	padding:0;
+}
